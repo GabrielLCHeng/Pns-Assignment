@@ -1,0 +1,118 @@
+.title {
+	font-size: medium;
+	color: #AF0000;
+	margin: 0px;
+}
+.MainLinks {  font-weight: normal}
+.BottomLinks {  font-weight: normal}
+.bgcolor {  background-color: #ffffcc}
+.nav {  font-family: Georgia, "Times New Roman", Times, serif; font-size: 12pt; vertical-align: middle; background-color: #d7e3f3}
+h1 {
+	font-size: medium;
+	color: #AF0000;
+	margin: 0px;
+}
+.param {  font-family: Symbol}
+.next {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt}
+.clist {  font-size: 14pt}
+.clistsm {  font-size: 12pt}
+.navBar1 { font-size: 14pt; font-family: Verdana, Arial, Helvetica, sans-serif; background-color: #FFFFCC}
+.navBar2 { font-size: 10pt; font-family: Verdana, Arial, Helvetica, sans-serif; background-color: #CCCCCC}
+.pageTitle {  color: #AF0000; font-weight: bold; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14pt}
+A:LINK {
+	color: #0000FF;
+}
+A:VISITED {
+	color: #6666FF;
+}
+.linkBg {  background-color: #FFFFCC}
+.banner {  font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-style: normal; background-color: #FFFFCC; width: 250px; clip:   rect(   ); border-style: solid}
+.deep {  position: relative; width: 250px; left: 0px; top: 0px; clip:      rect(   ); font-family: "Times New Roman", Times, serif; font-size: 14pt; font-style: normal; font-weight: bold; text-align: left; border-style: none}
+.small {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 9pt
+}
+.nonprop {  font-family: "Courier New", Courier, mono}
+.unnamed1 {  }
+.review {  font-size: small; font-weight: normal; margin-bottom: 12px}
+.sub {  vertical-align: sub}
+.sup {
+	vertical-align: super;
+}
+.prevnext {
+	font-family: "Times New Roman", Times, serif;
+	font-size: x-small;
+	text-align: right;
+}
+.black_border {
+	border-top-color: #000000;
+	border-right-color: #000000;
+	border-bottom-color: #000000;
+	border-left-color: #000000;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+}
+.black_border_2 {
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 2px;
+	border-top-color: #000000;
+	border-right-color: #000000;
+	border-bottom-color: #000000;
+	border-left-color: #000000;
+}
+.test_border {
+	border: thin solid #000000;
+}
+.grey_border {
+	border-top-color: #CCCCCC;
+	border-right-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+	border-left-color: #CCCCCC;
+}
+.ads {
+	background-color: #FFFFCC;
+	width: 500px;
+	left: 0px;
+	margin-top: 12px;
+	margin-bottom: 12px;
+}
+h2 {
+	font-size: medium;
+	margin-bottom: 6px;
+	font-weight: bold;
+	color: #AF0000;
+}
+ol {
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+.reference {
+	padding-left: .5in;
+	border-left-style: none;
+	text-align: left;
+	text-indent: -0.5in;
+}
+
+.link {
+	margin-left: 0px;
+	border: 1px dashed #F00;
+	padding-top: 2px;
+	padding-right: 6px;
+	padding-bottom: 2px;
+	padding-left: 10px;
+	margin-top: 12px;
+	margin-bottom: 12px;
+	float: none;
+	clear: none;
+	list-style-type: disc;
+	list-style-position: inside;
+	text-indent: 0pt;
+	width: 375px;
+}
+h3 {
+	margin-bottom: 0px;
+}
